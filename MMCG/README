@@ -1,0 +1,5 @@
+Mapped Moments to a Cartesian Grid (MMCG) VAP
+
+http://www.arm.gov/data/eval/55
+
+./mmcg.py sgpcsaprsurcmacI7.c0.20110520.110100.nc foo.dir/

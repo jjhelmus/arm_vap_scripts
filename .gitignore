@@ -1,3 +1,23 @@
+# Editor temporary/working/backup files
+.#*
+[#]*#
+*~
+*$
+*.bak
+*.diff
+*.org
+.project
+.pydevproject
+*.rej
+.settings/
+.*.sw[nop]
+.sw[nop]
+*.tmp
+*.vim
+tags
+
+
+
 *.py[cod]
 
 # C extensions
@@ -33,3 +53,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Project specific
+MMCG/*.nc
+MMCG/foo.dir
+CMAC/mergedsonde
+CMAC/*.nc
+CMAC/*.RAW*
+

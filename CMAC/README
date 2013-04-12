@@ -1,0 +1,5 @@
+Corrected Moments in Antenna Coordinate (CMAC) VAP
+
+See: http://www.arm.gov/data/eval/69
+
+./cmac.py XSE110520105502.RAW7HHG test.dir arm_xsapr_se.params
